@@ -1,0 +1,13 @@
+li{
+    list-style: none;
+    background-color: lightgreen;
+    padding: 5px 10px;
+    margin: 5px 5px;
+    display: inline-block;
+}
+
+
+
+#peopleModule{
+    text-align: center;
+}
